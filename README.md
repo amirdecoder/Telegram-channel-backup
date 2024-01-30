@@ -1,4 +1,4 @@
-# Telegram-channel-backup
+# Telegram-channel-copy-message
 This robot can read the messages of any channel and put it in a variable
 
 <br>
